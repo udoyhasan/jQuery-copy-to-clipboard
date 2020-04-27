@@ -1,1 +1,1 @@
-Copy and copy message functions
+Copy and copy message functions using jQuery
