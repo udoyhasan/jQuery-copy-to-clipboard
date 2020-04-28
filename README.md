@@ -5,7 +5,7 @@ Copy to clipborard is a simple jQuery plugin by Softisia. It is very simple to u
 /--------------------------------------------------------------------------/
 # Installation:
 You can use this plugin in two ways =>
-(1) By Downloading && (2)By using our high speed cdn link
+(1) By Downloading && (2)By using our high speed cdn link <br/>
 /--------------------------------------------------------------------------/
 
 
@@ -27,7 +27,8 @@ You can use this plugin in two ways =>
 * Add this js script cdns inside body or head tag
   - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js" &gt; &lt;/script&gt;
   - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js" &gt; &lt;/script&gt;
-  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js" &gt; &lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js" &gt; &lt;/script&gt; 
+  
   Note: Follow this js script sequence
 
 * Link the css insite the head tag (optional => if you want the stylish buttons)
