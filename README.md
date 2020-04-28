@@ -78,5 +78,7 @@ Ex.
 /--------------------------------------------------------------------------/
 
 ## Support us by Donating. Your donation inspires us to do more for you 
+[Donate][https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z54DGLHD7QBG2&source=url]
+
 
 /--------------------------------------------------------------------------/
