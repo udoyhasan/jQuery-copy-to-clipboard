@@ -1,1 +1,13 @@
-Copy and copy message functions using jQuery
+#Introduction
+Copy to clipborard is a simple jQuery plugin by Softisia. It is very simple to use. It helps to copy anything to clip board in a website. To use this plugin just download the codes file and get started. If you dont want to download it you can use our high speed cnd links to your website. In this way it will not waste your hosting space.
+
+
+#Installation:
+You can use this plugin in two ways =>
+(1) By Downloading && (2)By using our high speed cdn link
+
+
+##(1)By downloading:
+a. Download the file and extract it
+b. Copy and paste js and css file to your destination folders
+c. Insert the 
