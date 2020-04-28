@@ -16,7 +16,7 @@ You can use this plugin in two ways =>
   - <script src="yourpath/copyMessage.js"></script>
   Note: follow this secuencse
 * Link the css insite the head tag (optional => if you want the stylish buttons)
-&lt; link / &gt;
+  * &lt;link/&gt;
 
 ### By using our high speed cdn link
 * Add tis script cdn
