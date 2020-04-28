@@ -10,4 +10,6 @@ You can use this plugin in two ways =>
 ### (1)By downloading:
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
-* Insert the 
+* Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
+  + ai
+* Link the css insite the head tag 
