@@ -11,5 +11,8 @@ You can use this plugin in two ways =>
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
 * Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
-  + ai
-* Link the css insite the head tag 
+  - <script src="<yourpath here>/jQuery.js"></script>
+  - <script src="<yourpath here>/clipboard.min.js"></script>
+  - <script src="<yourpath here>/copyMessage.js"></script>
+* Link the css insite the head tag (optional => if you want the stylish buttons)
+  - <link rel="stylesheet" href="<yourpath here>/cp_btn_style.css"/>
