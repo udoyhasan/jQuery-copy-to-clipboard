@@ -7,7 +7,7 @@ You can use this plugin in two ways =>
 (1) By Downloading && (2)By using our high speed cdn link
 
 
-## (1)By downloading:
+### (1)By downloading:
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
 * Insert the 
