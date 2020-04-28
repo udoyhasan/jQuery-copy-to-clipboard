@@ -1,7 +1,7 @@
-<link href="https://cdn.softisia.com/github/markup/style.css" rel="stylesheet"></link>
-# Introduction
-Copy to clipborard is a simple jQuery plugin by Softisia. It is very simple to use. It helps to copy anything to clip board in a website. To use this plugin just download the codes file and get started. If you dont want to download it you can use our high speed cnd links to your website. In this way it will not waste your hosting space.
 
+# Introduction
+
+Copy to clipborard is a simple jQuery plugin by Softisia. It is very simple to use. It helps to copy anything to clip board in a website. To use this plugin just download the codes file and get started. If you dont want to download it you can use our high speed cnd links to your website. In this way it will not waste your hosting space.
 
 # Installation:
 You can use this plugin in two ways =>
