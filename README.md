@@ -25,9 +25,9 @@ You can use this plugin in two ways =>
 
 ### By using our high speed cdn link
 * Add this js script cdns inside body or head tag
-  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js"&gt;&lt;/script&gt;
-  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js"&gt;&lt;/script&gt;
-  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js"&gt;&lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js" &gt; &lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js" &gt; &lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js" &gt; &lt;/script&gt;
   Note: Follow this js script sequence
 
 * Link the css insite the head tag (optional => if you want the stylish buttons)
