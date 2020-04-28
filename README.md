@@ -36,11 +36,13 @@ You can use this plugin in two ways =>
 /--------------------------------------------------------------------------/
 
 # Using plugin
-To use this plugin use $(element).copyBtn() and $(element).copyItem();
+To use this plugin use <pre>$(element).copyBtn()</pre> and <pre>$(element).copyItem()</pre>;
 
 Ex.
+<pre>
 <input type="text">
 <button>copy</button>
+</pre>
 
 suppose you need to copy the text inside the input element by clicking the button element. So for that you need to add a script
 Ex.
@@ -53,8 +55,9 @@ Ex.
 </script>
 </pre>
 
-you can also use it by giving a class or id
+you can also use it by giving a id or class
 Ex.
+</pre>
 <input id="input-feild" type="text">
 <button id="copy-btn">copy</button>
 <script>
@@ -63,6 +66,7 @@ Ex.
 	  $('#copy-btn').copyItem();
   });
 </script>
+</pre>
 
 #### You can do the same using a class name (ID and Class name are optional you can use any id and class name)
 
