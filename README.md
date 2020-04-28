@@ -7,18 +7,17 @@ You can use this plugin in two ways =>
 (1) By Downloading && (2)By using our high speed cdn link
 
 
-### (1)By downloading:
+### By downloading:
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
 * Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
   - <script src="yourpath/jQuery.js"></script>
   - <script src="yourpath/clipboard.min.js"></script>
   - <script src="yourpath/copyMessage.js"></script>
+  Note: follow this secuencse
 * Link the css insite the head tag (optional => if you want the stylish buttons)
-  - cat('<link rel="stylesheet" href=', 'yourpath/cp_btn_style.css', '/>')
+  -<link href="ai.css"/>
 
+### By using our high speed cdn link
+* Add tis script cdn
 
-import markdown
-md = markdown.Markdown(output_format='html5')
-html = md.convert("<div>Hello World!</div>")
-print(html) 
