@@ -16,3 +16,9 @@ You can use this plugin in two ways =>
   - <script src="yourpath/copyMessage.js"></script>
 * Link the css insite the head tag (optional => if you want the stylish buttons)
   - cat('<link rel="stylesheet" href=', 'yourpath/cp_btn_style.css', '/>')
+
+
+import markdown
+md = markdown.Markdown(output_format='html5')
+html = md.convert("<div>Hello World!</div>")
+print(html) 
