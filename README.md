@@ -15,9 +15,9 @@ You can use this plugin in two ways =>
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
 * Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
-  - <script src="yourpath/jQuery.js"></script>
-  - <script src="yourpath/clipboard.min.js"></script>
-  - <script src="yourpath/copyMessage.js"></script>
+  - &lt;script src="yourpath/jQuery.js"&gt;&lt;/script&gt;
+  - &lt;script src="yourpath/clipboard.min.js"&gt;&lt;/script&gt;
+  - &lt;script src="yourpath/copyMessage.js"&gt;&lt;/script&gt;
   Note: Follow this js script sequence
   
 * Link the css insite the head tag (optional => if you want the stylish buttons)
@@ -25,9 +25,9 @@ You can use this plugin in two ways =>
 
 ### By using our high speed cdn link
 * Add this js script cdns inside body or head tag
-  - <script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js"></script>
-  - <script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js"></script>
-  - <script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js"></script>
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js"&gt;&lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js"&gt;&lt;/script&gt;
+  - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js"&gt;&lt;/script&gt;
   Note: Follow this js script sequence
 
 * Link the css insite the head tag (optional => if you want the stylish buttons)
