@@ -17,7 +17,7 @@ You can use this plugin in two ways =>
 * Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
   - &lt;script src="yourpath/jQuery.js"&gt;&lt;/script&gt;
   - &lt;script src="yourpath/clipboard.min.js"&gt;&lt;/script&gt;
-  - &lt;script src="yourpath/copyMessage.js"&gt;&lt;/script&gt;
+  - &lt;script src="yourpath/copyMessage.js"&gt;&lt;/script&gt; <br/>
   Note: Follow this js script sequence
   
 * Link the css insite the head tag (optional => if you want the stylish buttons)
@@ -37,15 +37,14 @@ You can use this plugin in two ways =>
 /--------------------------------------------------------------------------/
 
 # Using plugin
-To use this plugin use $(element).copyBtn() and $(element).copyItem();
-
+To use this plugin use $(element).copyBtn() and $(element).copyItem();<br/>
 Ex.
 <pre>
 	&lt;input type="text"&gt;
 	&lt;button&gt;copy&lt;/button&gt;
 </pre>
 
-suppose you need to copy the text inside the input element by clicking the button element. So for that you need to add a script
+suppose you need to copy the text inside the input element by clicking the button element. So for that you need to add a script <br/>
 Ex.
 <pre>
 <script>
@@ -56,7 +55,7 @@ Ex.
 </script>
 </pre>
 
-you can also use it by giving a id or class
+you can also use it by giving a id or class <br/>
 Ex.
 <pre>
 &lt;input id="input-feild" type="text"&gt;
