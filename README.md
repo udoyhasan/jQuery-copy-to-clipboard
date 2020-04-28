@@ -44,12 +44,14 @@ Ex.
 
 suppose you need to copy the text inside the input element by clicking the button element. So for that you need to add a script
 Ex.
+<pre>
 <script>
   $(document).ready(function(){
 	  $('button').copyBtn();
 	  $('input').copyItem();
   });
 </script>
+</pre>
 
 you can also use it by giving a class or id
 Ex.
@@ -71,6 +73,6 @@ Ex.
 
 /--------------------------------------------------------------------------/
 
-# Support us by Donating. Your donation inspire us to do more for you 
+## Support us by Donating. Your donation inspires us to do more for you 
 
 /--------------------------------------------------------------------------/
