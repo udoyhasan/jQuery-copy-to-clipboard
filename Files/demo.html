@@ -1,0 +1,32 @@
+<!--Main demo is on our cdn site-->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JS Bin</title>
+  
+  <!--Button style if don't want this style this button style don't add this css-->
+  <link rel="stylesheet" href="css/cp_btn_style.css">
+  
+</head>
+<body>
+
+<input type="text">
+<button>copy</button>
+
+
+<script src="js/jQuery.js"></script>
+<script src="js/clipboard.min.js"></script>
+<script src="js/copyMessage.js"></script>
+
+
+<script>
+$(document).ready(function(){
+	$('button').copyBtn();
+	$('input').copyItem();
+});
+</script>
+</body>
+</html>
