@@ -57,7 +57,7 @@ Ex.
 
 you can also use it by giving a id or class
 Ex.
-</pre>
+<pre>
 <input id="input-feild" type="text">
 <button id="copy-btn">copy</button>
 <script>
