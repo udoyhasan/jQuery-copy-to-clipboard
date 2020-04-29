@@ -14,7 +14,7 @@ You can use this plugin in two ways =>
 ### By downloading:
 * Download the file and extract it
 * Copy and paste js and css file to your destination folders
-* Link the jQueary codes inside head or body tag (Depends on you) using a script tag .
+* Link the jQueary codes inside body tag using a script tag .
   - &lt;script src="yourpath/jQuery.js"&gt;&lt;/script&gt;
   - &lt;script src="yourpath/clipboard.min.js"&gt;&lt;/script&gt;
   - &lt;script src="yourpath/copyMessage.js"&gt;&lt;/script&gt; <br/>
@@ -24,7 +24,7 @@ You can use this plugin in two ways =>
   * &lt;link rel="stylesheet" href="yourpath/cp_btn_style.css"/&gt;
 
 ### By using our high speed cdn link
-* Add this js script cdns inside body or head tag
+* Add this js script cdns inside body tag
   - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/jQuery.js" &gt; &lt;/script&gt;
   - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/clipboard.min.js" &gt; &lt;/script&gt;
   - &lt;script src="https://cdn.softisia.com/github/copy-to-clipboard/js/copyMessage.js" &gt; &lt;/script&gt; 
